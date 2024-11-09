@@ -285,3 +285,5 @@ Holy Grail: [https://book.hacktricks.xyz/welcome/readme](https://book.hacktricks
 ARTToolkit: [https://arttoolkit.github.io/](https://arttoolkit.github.io/) (Super handy because you can filter on “What you have”, “Services”, “Attack Type”, and “OS”)
 
 Kubehound: [https://github.com/DataDog/KubeHound](https://github.com/DataDog/KubeHound)
+
+Hacker Recipes: [https://www.thehacker.recipes/](https://www.thehacker.recipes/)
